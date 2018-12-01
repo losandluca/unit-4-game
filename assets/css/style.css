@@ -1,0 +1,94 @@
+body{
+    background: #fff4a3;
+}
+
+.jumbotron{ color: #ff9900; 
+    background: #fff4a3;
+     text-decoration: none; 
+     text-align: center;
+    }
+ 
+ p {
+    color: #4c4a37; 
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 18px; 
+    line-height: 32px; 
+    margin: 0 0 24px;
+  }
+
+  h1 {
+    color: #7c795d;
+     font-family: 'Trocchi', serif; 
+     font-size: 45px; 
+     font-weight: normal; 
+     line-height: 48px; 
+     margin: 0;
+  }
+
+  h2 {
+    font-size: 26px; 
+    font-weight: 300; 
+    color: #ffcc66; 
+    margin: 0 0 24px;
+  }
+
+  .random-number {
+    font-size: 35px;
+}
+
+.total-score- {
+    font-size: 35px;
+}
+
+.wins {
+    font-size: 35px;
+}
+
+.losses {
+    font-size: 35px;
+}
+
+.info-line {
+    background: #fff4a3;
+    height: 100px;
+    text-align: center;
+    color: #7c795d;
+    font-weight:bold;
+    border: 1px solid rgb(10, 7, 7);
+    margin-bottom: 35px;
+    padding-top: 10px;
+    text-decoration: none;
+}   
+
+.diamond-image {
+    background-size: cover;
+    background-position: center center;
+    height:250px;
+    /* width: 90%; */
+    margin: 0px;
+  }
+
+.diamond-one {
+    background-image: url(../images/DiamondOne.jpg);
+    margin-right:20px;
+    margin-left:13%;
+  }
+
+  .diamond-two {
+    background-image: url(../images/diamondTwo.jpg);
+    margin-right:20px
+  }
+
+  .diamond-three {
+    background-image: url(../images/DiamondThree.png);
+    margin-right:20px
+  }
+
+  .diamond-four {
+    background-image: url(../images/diamondFour.jpg);
+    margin-right:20px
+  }
+
+
+
+
