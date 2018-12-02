@@ -36,7 +36,7 @@ body{
     font-size: 35px;
 }
 
-.total-score- {
+.total-score {
     font-size: 35px;
 }
 
@@ -75,17 +75,17 @@ body{
   }
 
   .diamond-two {
-    background-image: url(../images/diamondTwo.jpg);
+    background-image: url(../images/DiamondTwo.png);
     margin-right:20px
   }
 
   .diamond-three {
-    background-image: url(../images/DiamondThree.png);
+    background-image: url(../images/DiamondThree.jpg);
     margin-right:20px
   }
 
   .diamond-four {
-    background-image: url(../images/diamondFour.jpg);
+    background-image: url(../images/DiamondFour.png);
     margin-right:20px
   }
 
